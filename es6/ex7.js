@@ -1,0 +1,6 @@
+///variable hoisting...
+name="Abdullah Ibna Jubayer"
+console.log(name)
+var  name;
+
+///this is valiable hoisting syntex....
